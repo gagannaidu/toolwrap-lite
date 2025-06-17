@@ -1,6 +1,10 @@
 # toolwrap-lite
 
-**toolwrap-lite** is a lightweight Python package that converts regular Python functions into OpenAI-compatible tool schemas using a simple decorator.
+**toolwrap-lite** is a lightweight Python package that automatically converts your Python functions into OpenAI-compatible function calling schemas using a simple decorator.
+
+With Toolwrap-Lite, you can effortlessly expose any Python function — whether it's for CRM APIs, database queries, business logic, or custom tools — to modern AI agents, LLM frameworks, and autonomous systems that rely on structured tool schemas.
+
+No more manually writing JSON schemas. Just decorate your function, and Toolwrap-Lite takes care of the rest.
 
 ## Features
 - No manual JSON writing
