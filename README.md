@@ -8,6 +8,14 @@
 - Export all tools into `tools.json`
 - Plug into OpenAI, LangChain, or CrewAI easily
 
+## Example Use Cases
+- Autonomous agents calling real APIs (CRM, finance, weather, analytics, etc.)
+- RAG systems with dynamic function augmentation
+- LangChain or CrewAI toolchains
+- Backend SaaS tools exposed to AI copilots
+- AI-powered automation platforms
+- Self-hosted AI assistants with external tool access
+
 ## Installation
 ```bash
 pip install toolwrap-lite
