@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "toolwrap-lite"
-version = "0.2.0"
+version = "0.3.0"
 description = "Auto-generate OpenAI-compatible tool schemas from Python functions using decorators."
 readme = "README.md"
 requires-python = ">=3.7"
